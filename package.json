@@ -1,0 +1,21 @@
+{
+  "name": "madlibify",
+  "version": "1.0.0",
+  "description": "simple module for creating a madlibs-like game :-)",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "handlebars": "^3.0.0",
+    "lodash": "^3.5.0"
+  },
+  "devDependencies": {
+    "tap": "^0.7.1"
+  },
+  "scripts": {
+    "test": "tap test/*.js"
+  },
+  "author": "Raquel Vélez <raquel@rckbt.me>",
+  "license": "ISC"
+}
